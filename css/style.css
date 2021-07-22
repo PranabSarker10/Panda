@@ -5,9 +5,10 @@
   width: 100px;
 }
 .panda-btn-buy-now {
-  background-image: linear-gradient(to bottom, #ff5898 0%, #ff4b92 100%);
+  background-image: linear-gradient(to bottom, #fa7309 0%, #ecc1a0 100%);
   color: white;
   border-radius: 8px;
   padding: 9px 25px;
   border: none;
+  margin-left: 120px;
 }
